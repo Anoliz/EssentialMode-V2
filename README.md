@@ -15,4 +15,6 @@ to
 resource_type 'map' { gameTypes = { EssentialMode = true } }
 ```
 
+# I will not help install or help fix anything you can't get working. I'm simply providing files for you.
+
 Credits to Kanersps
